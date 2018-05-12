@@ -1,0 +1,25 @@
+_repo: O-amor-offendido-e-vingado_28640
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28640'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+title: O amor offendido, e vingado
+url: http://www.gutenberg.org/ebooks/28640
